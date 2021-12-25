@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015796489812",
+    "project_id": "minegallery-f9065",
+    "storage_bucket": "minegallery-f9065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015796489812:android:3fd93e8e1780a1de7617c1",
+        "android_client_info": {
+          "package_name": "com.example.minecraft_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015796489812-kr03f5mmel5ukhasjn7jjjckah1tt15o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCfUQafNtTiB5Ta1_GEU5qL1_CwMZ894"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015796489812-kr03f5mmel5ukhasjn7jjjckah1tt15o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
